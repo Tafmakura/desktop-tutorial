@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Desktop Tutorial
  * Description: Server integration and yield augmentation plugin for WooCommerce.
- * Version: 36.0.2
+ * Version: 100.0.2
  * Author: Your Name
  * Text Domain: siya
  */
